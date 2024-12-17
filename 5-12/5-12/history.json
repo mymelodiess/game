@@ -1,0 +1,428 @@
+{
+    "a": [
+        {
+            "date": "2024-11-21 07:59:12",
+            "difficulty": "hard",
+            "time": 3,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 07:59:35",
+            "difficulty": "hard",
+            "time": 2,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 07:59:49",
+            "difficulty": "easy",
+            "time": 2,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:00:22",
+            "difficulty": "easy",
+            "time": 2,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:01:32",
+            "difficulty": "medium",
+            "time": 5,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:01:40",
+            "difficulty": "easy",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:01:43",
+            "difficulty": "easy",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:01:48",
+            "difficulty": "easy",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:01:54",
+            "difficulty": "easy",
+            "time": 2,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:01:58",
+            "difficulty": "easy",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:04:23",
+            "difficulty": "easy",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:23:51",
+            "difficulty": "hard",
+            "time": 975,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:24:20",
+            "difficulty": "hard",
+            "time": 5,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 08:24:51",
+            "difficulty": "hard",
+            "time": 26,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 08:26:03",
+            "difficulty": "hard",
+            "time": 32,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 08:45:01",
+            "difficulty": "hard",
+            "time": 4,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 08:47:55",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 08:49:32",
+            "difficulty": "medium",
+            "time": 11,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 09:03:35",
+            "difficulty": "medium",
+            "time": 8,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 09:16:10",
+            "difficulty": "hard",
+            "time": 3,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 09:27:31",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 09:31:13",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 09:32:06",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 09:47:15",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 09:55:01",
+            "difficulty": "medium",
+            "time": 3,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:07:17",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-04 17:39:41",
+            "difficulty": "hard",
+            "time": 95,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-04 17:39:57",
+            "difficulty": "medium",
+            "time": 6,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-04 18:09:37",
+            "difficulty": "hard",
+            "time": 74,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-04 18:27:16",
+            "difficulty": "hard",
+            "time": 13,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-04 18:27:32",
+            "difficulty": "hard",
+            "time": 13,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-04 18:27:33",
+            "difficulty": "hard",
+            "time": 13,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-04 18:28:39",
+            "difficulty": "hard",
+            "time": 46,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-04 18:28:41",
+            "difficulty": "hard",
+            "time": 46,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-04 18:36:22",
+            "difficulty": "hard",
+            "time": 61,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-04 18:37:20",
+            "difficulty": "hard",
+            "time": 29,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-04 20:23:52",
+            "difficulty": "hard",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-04 20:23:55",
+            "difficulty": "easy",
+            "time": 0,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-04 20:23:57",
+            "difficulty": "hard",
+            "time": 0,
+            "status": "Win"
+        }
+    ],
+    "b": [
+        {
+            "date": "2024-11-21 10:08:11",
+            "difficulty": "hard",
+            "time": 3,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:08:16",
+            "difficulty": "medium",
+            "time": 2,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:08:19",
+            "difficulty": "easy",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:09:29",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 10:09:42",
+            "difficulty": "medium",
+            "time": 11,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 10:10:54",
+            "difficulty": "medium",
+            "time": 5,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:12:15",
+            "difficulty": "medium",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:13:47",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        }
+    ],
+    "h": [
+        {
+            "date": "2024-11-21 10:36:32",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 10:37:23",
+            "difficulty": "hard",
+            "time": 4,
+            "status": "Win"
+        }
+    ],
+    "u": [
+        {
+            "date": "2024-11-21 10:41:59",
+            "difficulty": "hard",
+            "time": 3,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:44:57",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        }
+    ],
+    "uu": [
+        {
+            "date": "2024-11-21 10:46:13",
+            "difficulty": "hard",
+            "time": 6,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 10:46:57",
+            "difficulty": "medium",
+            "time": 8,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:47:29",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        }
+    ],
+    "kk": [
+        {
+            "date": "2024-11-21 10:53:05",
+            "difficulty": "hard",
+            "time": 2,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:53:12",
+            "difficulty": "easy",
+            "time": 4,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 10:53:17",
+            "difficulty": "hard",
+            "time": 3,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:53:21",
+            "difficulty": "easy",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:53:37",
+            "difficulty": "medium",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:53:47",
+            "difficulty": "medium",
+            "time": 7,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:55:02",
+            "difficulty": "medium",
+            "time": 2,
+            "status": "Win"
+        }
+    ],
+    "hg": [
+        {
+            "date": "2024-11-21 10:58:33",
+            "difficulty": "easy",
+            "time": 8,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-11-21 10:58:50",
+            "difficulty": "hard",
+            "time": 2,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 10:59:22",
+            "difficulty": "medium",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-11-21 11:00:23",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        }
+    ],
+    "hh": [
+        {
+            "date": "2024-11-21 11:11:17",
+            "difficulty": "hard",
+            "time": 11,
+            "status": "Lose"
+        }
+    ],
+    "Linh": [
+        {
+            "date": "2024-12-15 12:02:42",
+            "difficulty": "easy",
+            "time": 18,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-15 12:16:55",
+            "difficulty": "hard",
+            "time": 807,
+            "status": "Lose"
+        }
+    ]
+}
